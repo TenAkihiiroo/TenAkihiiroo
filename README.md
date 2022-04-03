@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TenAkihiiroo
+- 👋 Hi, I’m Ten Akihiro
 - 👀 I’m interested in UI/UX and Data Science
 - 🌱 I’m currently learning data science
 - 📫 If u want to reach me, please dm @tenakr on instagram
